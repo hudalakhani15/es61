@@ -1,0 +1,50 @@
+*{
+    background-color: aliceblue;
+    margin: 0;
+    padding: 0
+}
+#dropdownkeys{
+    align-items: center;
+    justify-content: center;
+    color: rgb(236, 210, 90);
+    font-size: large;
+    size: 350px;
+    margin: 10px;
+    padding: 5px;
+}
+#dropdownvalues{
+    align-items: center;
+    justify-content: center;
+    color: rgb(236, 210, 90);
+    font-size: large;
+    size: 350px;
+    margin: 10px;
+    padding: 5px;
+}
+#title{
+    align-items: center;
+    justify-content: center;
+    color: rgb(236, 210, 90);
+    font-size: large;
+    size: 350px;
+    margin: 10px;
+    padding: 5px;
+}
+#values{
+     align-items: center;
+    justify-content: center;
+    color: rgb(236, 210, 90);
+    font-size: large;
+    size: 350px;
+    margin: 10px;
+    padding: 5px;
+}
+    #search{
+        align-items: center;
+        justify-content: center;
+        color: rgb(236, 210, 90);
+        font-size: large;
+        size: 350px;
+        margin: 10px;
+        padding: 5px;
+    }
